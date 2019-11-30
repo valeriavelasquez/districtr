@@ -44,7 +44,7 @@
         "browser-sync": "^2.26.7",
         "chai": "^4.2.0",
         "dotenv": "^8.1.0",
-        "eslint": "^6.4.0",
+        "eslint": "^6.7.2",
         "esm": "^3.2.25",
         "gulp": "^4.0.2",
         "gulp-dart-sass": "^0.9.1",
