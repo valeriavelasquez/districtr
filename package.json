@@ -38,7 +38,7 @@
         "@babel/register": "^7.6.2",
         "@open-wc/karma-esm": "^2.10.6",
         "@open-wc/testing": "^2.3.4",
-        "@open-wc/testing-karma": "^3.1.34",
+        "@open-wc/testing-karma": "3.2.9",
         "@open-wc/testing-karma-bs": "^1.1.59",
         "babel-polyfill": "^6.26.0",
         "browser-sync": "^2.26.7",
